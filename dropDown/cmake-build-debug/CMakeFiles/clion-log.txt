@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /Users/khanh/CLionProjects/dropDown -B /Users/khanh/CLionProjects/dropDown/cmake-build-debug
+-- Found SFML 2.5.1 in /usr/local/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/khanh/CLionProjects/dropDown/cmake-build-debug

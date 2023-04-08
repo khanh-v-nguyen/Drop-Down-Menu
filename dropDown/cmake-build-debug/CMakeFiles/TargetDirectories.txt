@@ -1,0 +1,3 @@
+/Users/khanh/CLionProjects/dropDown/cmake-build-debug/CMakeFiles/dropDown.dir
+/Users/khanh/CLionProjects/dropDown/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/khanh/CLionProjects/dropDown/cmake-build-debug/CMakeFiles/rebuild_cache.dir
